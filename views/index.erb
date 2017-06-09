@@ -3,8 +3,22 @@
   <head>
     <meta charset="utf-8">
     <title>Caeser Cipher</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway" rel="stylesheet">
   </head>
   <body>
-
+    <h1>Caeser Cipher</h1>
+    <div class="content">
+    <form>
+      <label for="string">String</label>
+      <input type="text" name="string">
+      <label for="shift">Shift Factor</label>
+      <input type="text" name="shift">
+      <div class="buttonholder">
+      <input type="submit" id="shadow">
+      </div>
+    </form>
+      <h2>"<%= encoded_message %>"</h2>
+  </div>
   </body>
 </html>

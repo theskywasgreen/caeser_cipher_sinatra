@@ -4,9 +4,22 @@ body {
   background-color: #FFF;
 }
 
+header {
+  padding-bottom: 50px;
+}
+
+#title {
+  float: left;
+}
+
+#github {
+  float: right;
+}
+
 h1 {
   font-size: 25px;
   position: relative;
+  margin-top: 8px;
   margin-left: 15px;
 }
 
@@ -14,6 +27,7 @@ h1 {
   width: 50%;
   height: 100%;
   margin: auto;
+
 }
 
 #instructions {
@@ -65,8 +79,12 @@ input[type="submit"] {
 
 h2 {
   text-align: center;
-  margin-top: 80px;
+  margin-top: 70px;
   font-size: 100px;
   margin-left: -20px;
   color: #191919;
+}
+
+img {
+  margin: 8px 15px 0 0;
 }

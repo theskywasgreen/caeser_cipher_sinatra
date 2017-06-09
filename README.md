@@ -5,3 +5,6 @@ The Caeser Cipher works as follows -
 Enter a word or sentence you wish to cipher into the "string" input field.
 Enter how many letters you want to shift each letter by (i.e 5 would shift each letter 5 letters down the alphabet) into the shift factor input.
 Press submit and your ciphered word/sentence will appear on the screen. 
+
+To reach the app follow -
+https://pacific-falls-76793.herokuapp.com/

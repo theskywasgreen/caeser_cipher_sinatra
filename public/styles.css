@@ -12,7 +12,7 @@ header {
   float: left;
 }
 
-#github {
+#github img {
   float: right;
 }
 
@@ -24,6 +24,7 @@ h1 {
 }
 
 .content {
+  clear: both;
   width: 50%;
   height: 100%;
   margin: auto;

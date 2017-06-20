@@ -17,6 +17,7 @@ header {
 }
 
 h1 {
+  font-weight: 400;
   font-size: 25px;
   position: relative;
   margin-top: 8px;
@@ -65,16 +66,14 @@ label {
 
 input[type="submit"] {
   border: none;
-  background-color: #FFF;
-  color: #191919;
+  background-color: #191919;
+  color: #FFF;
   padding: 10px 40px;
-  border-radius: 2px;
   margin-top: 30px;
-  box-shadow: 2px 2px 10px #191919;
 }
 
 #shadow:hover {
-  background-color: #ff3737;
+  background-color: #ff6a6a;
   color: #FEFEFE;
 }
 
